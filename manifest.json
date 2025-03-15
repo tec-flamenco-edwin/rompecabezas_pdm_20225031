@@ -1,0 +1,41 @@
+
+{
+    "lang":"es-SV",
+    "name": "Rompecabezas de flamenco ",
+    "show_name": "Rompecabezas",
+    "description": "un  sencillo Rompecabezas de cuatro piezas , e; usuario debe de arrastrar y soltar las piezas hasta completar",
+    "start_url": "./",
+    "background_color": "#2F3D58",
+    "theme_color": "#2F3D58",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "./media/icons/icon.png",
+            "sizes": "556x556"
+     
+        
+        }
+    ],
+
+    "screenshots":[
+        {
+            "src": "./media/screenshots/wide.png",
+       "sizes": "1920x913",
+       "type": "image/png",
+       "form_factor": "wide",
+       "label": "Rompecabezas escritorio"
+
+        },
+        {
+            "src": "./media/screenshots/narrow.png",
+            "sizes": "1442x3206",
+            "type": "image/png",
+           "form_factor": "narrow",
+           "label": "Rompecabezas movil"
+    
+
+        }
+        
+    ]
+}
